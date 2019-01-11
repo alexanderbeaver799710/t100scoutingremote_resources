@@ -109,7 +109,7 @@
         },
         {
             "type":"option",
-            "prompt": "Test question",
+            "prompt": "Test question 2",
             "options":[
                 "No",
                 "Yes"
