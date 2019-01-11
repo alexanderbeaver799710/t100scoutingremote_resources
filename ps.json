@@ -106,22 +106,6 @@
                 "Yes (unreliable)",
                 "Yes (reliable)"
             ]
-        },
-        {
-            "type":"option",
-            "prompt": "Test question 2",
-            "options":[
-                "No",
-                "Yes"
-            ]
-        },
-        {
-            "type":"option",
-            "prompt":"Q3",
-            "options":[
-                "No",
-                "Yes"
-            ]
         }
         
     ]
